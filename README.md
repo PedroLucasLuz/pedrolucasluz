@@ -1,16 +1,16 @@
-### Hi there 👋
+```js
+import Desenvolvedor from "PedroLucas";
 
-<!--
-**PedroLucasLuz/PedroLucasLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class SobreMim extends Desenvolvedor {
+  nome = "Pedro Lucas Luz Costa";
+  area = "Frontend and Mobile developer";
+  objetivo = "Ganhar grana";
+  linguagemQueOdeia = "Java";
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class Skills extends Desenvolvedor {
+  linguagens = ["HTML, CSS, Javascript, Typescript, Python, Java"];
+  bibliotecas = ["React, Vue e Angular "];
+  frameworks = ["Bootstrap"];
+}
+```
