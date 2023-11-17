@@ -4,7 +4,7 @@ import Desenvolvedor from "PedroLucasluz";
 class SobreMim extends Desenvolvedor {
   $nome = "Pedro Lucas Luz Costa";
   $area = "Frontend and Mobile developer";
-  $objetivo = "Ganhar grana";
+  $objetivo = "Trabalhar em casa";
   $linguagemQueOdeia = "Java";
 }
 
