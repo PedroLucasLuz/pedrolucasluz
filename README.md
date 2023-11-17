@@ -5,7 +5,7 @@ class SobreMim extends Desenvolvedor {
   $nome = "Pedro Lucas Luz Costa";
   $area = "Frontend and Mobile developer";
   $objetivo = "Trabalhar em casa";
-  $linguagemQueOdeia = "Java";
+  $linguagem_que_odeia = "Java";
 }
 
 class Skills extends Desenvolvedor {
