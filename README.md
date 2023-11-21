@@ -12,7 +12,7 @@ class Skills extends Desenvolvedor {
   $marcacao = ["HTML, CSS"]
   $front_end = ["Javascript, Typescript"]
   $back_end = ["Python, Java, Nodejs"];
-  $frameworks = ["Tailwind_CSS, React, Nextjs e Angular"];
+  $frameworks = ["Tailwind_CSS, React, Nextjs, Angular"];
   $banco_de_dados = ["MySQL, MongoDB, PostgreSQL"]
 }
 ```
