@@ -1,18 +1,18 @@
 ```js
 import Desenvolvedor from "PedroLucasluz";
 
-class SobreMim extends Desenvolvedor {
-  $nome = "Pedro Lucas Luz Costa";
-  $area = "Frontend and Backend";
-  $objetivo = "Trabalhar em casa";
-  $linguagem_que_odeia = "Java";
+public class SobreMim extends Desenvolvedor {
+    String nome = "Pedro Lucas Luz Costa";
+    String area = "Frontend and Backend";
+    String objetivo = "Trabalhar em casa";
+    String linguagemQueOdeia = "Java";
 }
 
-class Skills extends Desenvolvedor {
-  $marcacao = ["HTML, CSS"];
-  $front_end = ["Javascript, Typescript"];
-  $back_end = ["Python, Java, Nodejs"];
-  $frameworks = ["Tailwind_CSS, React, Nextjs, Angular"];
-  $banco_de_dados = ["MySQL, MongoDB, PostgreSQL"];
+public class Skills extends Desenvolvedor {
+    String[] marcacao = {"HTML", "CSS"};
+    String[] frontEnd = {"Javascript", "Typescript"};
+    String[] backEnd = {"Python", "Java", "Nodejs"};
+    String[] frameworks = {"Tailwind_CSS", "React", "Nextjs", "Angular"};
+    String[] bancoDeDados = {"MySQL", "MongoDB", "PostgreSQL"};
 }
 ```
