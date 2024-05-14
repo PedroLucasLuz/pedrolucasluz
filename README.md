@@ -3,7 +3,7 @@ import Desenvolvedor from "PedroLucasluz";
 
 public class SobreMim extends Desenvolvedor {
     String nome = "Pedro Lucas Luz Costa";
-    String area = "Frontend and Backend";
+    String area = "Backend";
     String objetivo = "Trabalhar em casa";
     String linguagemQueOdeia = "Java";
 }
