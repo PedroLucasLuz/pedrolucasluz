@@ -5,7 +5,7 @@ public class SobreMim extends Desenvolvedor {
     String nome = "Pedro Lucas Luz Costa";
     String area = "Backend";
     String objetivo = "Trabalhar em casa";
-    String linguagemQueOdeia = "Java";
+    String linguagemQueOdeia = "Python";
 }
 
 public class Skills extends Desenvolvedor {
