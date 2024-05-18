@@ -18,10 +18,10 @@ class SobreMim {
 
 class Skills {
     private String[] marcacao = {"HTML", "CSS"};
-    private String[] frontEnd = {"JavaScript", "TypeScript"};
+    private String[] frontEnd = {"JavaScript"};
     private String[] backEnd = {"Python", "Java", "Node.js"};
-    private String[] frameworks = {"Tailwind CSS", "React", "Next.js", "Angular"};
-    private String[] bancoDeDados = {"MySQL", "MongoDB", "PostgreSQL"};
+    private String[] frameworks = {"React"};
+    private String[] bancoDeDados = {"MySQL"};
 }
 
 ```
