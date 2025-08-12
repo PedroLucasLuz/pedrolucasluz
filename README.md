@@ -1,6 +1,4 @@
-# 👋 Opa, me chamo Pedro Lucas
-
-## 💼 Perfil
+# 💼 Perfil
 
 - 💻 Estudante e Professor de Programação.
 - 🌱 Jogador de **RPG de mesa** e **Dead by Daylight**.
