@@ -1,23 +1,29 @@
-```java
-public class Desenvolvedor {
-    public static void main(String[] args) {
-        SobreMim sobreMim = new SobreMim();
-        Skills skills = new Skills();
+# 👋 Opa, me chamo Pedro Lucas
 
-        System.out.println(SobreMim);
-        System.out.println(Skills);
-    }
-}
+## 💼 Perfil
 
-class SobreMim {
-    private String nome = "Pedro Lucas Luz Costa";
-    private String area = "Backend";
-    private String linguagemQueOdeia = "Python";
-}
+- 💻 Estudante e Professor de Programação.
+- 🌱 Jogador de **RPG de mesa** e **Dead by Daylight**.
+- 🎓 **Tecnologo em Telemática**.
+- 🎓 **Técnico em Informática para a Internet**.
 
-class Skills {
-    private String[] marcacao = {"HTML", "CSS"};
-    private String[] frontEnd = {"JavaScript"};
-}
+## 🚀 Habilidades
 
-```
+Aqui estão algumas das linguagens de programação e tecnologias que estou familiarizado:
+
+## 👨‍💻 Linguagens: 
+[![My Skills](https://skillicons.dev/icons?i=javascript,html,css,python,php,java)](https://skillicons.dev)
+
+## 🧰 Frameworks: 
+[![My Skills](https://skillicons.dev/icons?i=react,laravel,bootstrap)](https://skillicons.dev)
+
+## 🗄️ Bancos de Dados: 
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+## ⚙️ Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
+
+## 📫 Contato
+
+![Gmail Badge](https://img.shields.io/badge/-pedro.l.l.prof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.l.l.prof@gmail.com)
+
+![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucasLuz&show_icons=true&theme=dark)
