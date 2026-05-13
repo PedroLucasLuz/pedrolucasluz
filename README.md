@@ -21,7 +21,5 @@ Aqui estão algumas das linguagens de programação e tecnologias que estou fami
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion)](https://skillicons.dev)
 
 ## 📫 Contato
-
 ![Gmail Badge](https://img.shields.io/badge/-pedro.l.l.prof@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.l.l.prof@gmail.com)
 
-![DiasEllen26 GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroLucasLuz&show_icons=true&theme=dark)
