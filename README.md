@@ -11,18 +11,6 @@
 
 </div>
 
-
-## 🚀 Sobre mim
-
-```yaml
-Nome: Pedro Lucas Luz
-Cargo: Desenvolvedor Fullstack & Professor
-Formação:
-  - Tecnólogo em Telemática
-  - Técnico em Informática para Internet
-```
-
-
 # ⚡ Tech Stack
 
 <div align="center">
