@@ -19,19 +19,19 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,react,nextjs,vite,javascript,typescript,jquery&theme=dark" />
 
-<br><br>
+<br>
 
 ### ⚙️ Back-end
 
 <img src="https://skillicons.dev/icons?i=php,laravel,python,django,nodejs,express&theme=dark" />
 
-<br><br>
+<br>
 
 ### 🗄️ Bancos de Dados
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" />
 
-<br><br>
+<br>
 
 ### 🛠️ Ferramentas
 
